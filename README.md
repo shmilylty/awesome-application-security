@@ -24,18 +24,18 @@
       * [Web应用黑客手册](#Web应用黑客手册) (2011) ![nonfree](img/nonfree.png)
       * [密码学工程：设计原理与实践应用](#密码学工程：设计原理与实践应用) (2010) ![nonfree](img/nonfree.png)
       * [Python灰帽子：黑客与逆向工程师的Python编程之道](#Python灰帽子：黑客与逆向工程师的Python编程之道) (2009) ![nonfree](img/nonfree.png)
-      * [软件安全评估的艺术:识别与防范软件](#软件安全评估的艺术:识别与防范软件) (2006) ![nonfree](img/nonfree.png)
+      * [软件安全评估的艺术:识别与防范软件](#软件安全评估的艺术：识别与防范软件) (2006) ![nonfree](img/nonfree.png)
       * [C语言接口与实现：创建可重用软件的技术](#C语言接口与实现：创建可重用软件的技术) (1996) ![nonfree](img/nonfree.png)
       * [逆向：逆向工程的秘密](#逆向：逆向工程的秘密) (2005) ![nonfree](img/nonfree.png)
       * [JavaScript语言精粹](#JavaScript语言精粹) (2008) ![nonfree](img/nonfree.png)
-      * [Windows内部实现: 囊括Windows Server 2008和Windows Vista (第五版) ](#Windows内部实现: 囊括Windows Server 2008和Windows Vista (第五版)) (2007) ![nonfree](img/nonfree.png)
+      * [Windows内部实现: 囊括Windows Server 2008和Windows Vista (第五版) ](#Windows内部实现: 囊括Windows_Server_2008和Windows_Vista（第五版）) (2007) ![nonfree](img/nonfree.png)
       * [Mac黑客手册](#Mac黑客手册) (2009) ![nonfree](img/nonfree.png)
-      * [IDA Pro权威指南: 世界上最受欢迎反汇编者的非正式指南](#IDA Pro权威指南: 世界最受欢迎反汇编者的非正式指南) (2008) ![nonfree](img/nonfree.png)
-      * [用TCP/IP进行网际互连（第2卷）：设计、实现与内核（ANSI C版）（第3版）](#用TCP/IP进行网际互连（第2卷）：设计、实现与内核（ANSI C版）（第3版）) (1998) ![nonfree](img/nonfree.png)
+      * [IDA Pro权威指南: 世界上最受欢迎反汇编者的非正式指南](#IDA-Pro权威指南: 世界最受欢迎反汇编者的非正式指南) (2008) ![nonfree](img/nonfree.png)
+      * [用TCP/IP进行网际互连（第2卷）：设计、实现与内核（ANSI C版）（第3版）](#用TCP/IP进行网际互连（第2卷）：设计、实现与内核（ANSI-C版）（第3版）) (1998) ![nonfree](img/nonfree.png)
       * [网络算法：设计快速网络设备的跨学科方法](#网络算法：设计快速网络设备的跨学科方法) (2004) ![nonfree](img/nonfree.png)
       * [计算机结构 (麻省理工学院电子电气工程与计算机科学系教材)](#计算机结构 (麻省理工学院电子电气工程与计算机科学系教材)) (1989) ![nonfree](img/nonfree.png)
       * [软件加密与解密](#软件加密与解密) (2009) ![nonfree](img/nonfree.png)
-      * [安全编程：开发安全程序](#安全编程: 开发安全程序) (2015)
+      * [安全编程：开发安全程序](#安全编程：开发安全程序) (2015)
       * [安全工程：构建可靠分布式系统指南（第二版）](#安全工程：构建可靠分布式系统指南（第二版）) (2008)
       * [防弹SSL和TLS：理解和部署SSL/TLS和PKI以保护服务器和Web应用安全](#防弹SSL和TLS：理解和部署SSL/TLS和PKI以保护服务器和Web应用安全) (2014) ![nonfree](img/nonfree.png)
     * [课程](#课程)
@@ -73,7 +73,7 @@
   * [C++](#c++)
     * [书籍](#书籍)
       * [C++安全编码标准](#C++安全编码标准) (2006)
-  * [C Sharp](#C Sharp)
+  * [C Sharp](#C-Sharp)
     * [书籍](#书籍)
       * [安全驱动.NET](#安全驱动.NET) (2015) ![nonfree](img/nonfree.png)
   * [Java](#java)
@@ -154,9 +154,9 @@
 
 ## 书籍
 
-###[作为一个渗透测试学习者必知必读的好书推荐](https://zhuanlan.zhihu.com/p/23561475)
+### [作为一个渗透测试学习者必知必读的好书推荐](https://zhuanlan.zhihu.com/p/23561475)
 
-###[作为一个二进制安全学习者必知必读的书籍推荐](https://zhuanlan.zhihu.com/p/23574346)
+### [作为一个二进制安全学习者必知必读的书籍推荐](https://zhuanlan.zhihu.com/p/23574346)
 
 ### ![nonfree](img/nonfree.png) [Web应用黑客手册](http://mdsec.net/wahh) (2011)
 
