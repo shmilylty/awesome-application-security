@@ -14,7 +14,7 @@
     * [文章](#文章)
       * [<a href="http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/">如何安全地生成随机数</a> (2014)](#如何安全地生成随机数-2014)
       * [<a href="https://crackstation.net/hashing-security.htm">加盐哈希密码的正确姿势</a> (2014)](#加盐哈希密码的正确姿势-2014)
-      * [<a href="http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html">/dev/urandom不当的使用</a> (2014)](#devurandom不当的使用-2014)
+      * [<a href="http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html">/dev/urandom不当的使用</a> (2014)](#devurandom不当使用-2014)
       * [<a href="https://paragonie.com/white-paper/2015-why-invest-application-security">Why Invest in Application Security?</a> (2015)](#why-invest-in-application-security-2015)
       * [<a href="https://freedom-to-tinker.com/blog/jbonneau/be-wary-of-one-time-pads-and-other-crypto-unicorns/">警惕多次使用一次性密钥和其他奇葩的加密方式</a> (2015)](#警惕多次使用一次性密钥和其他奇葩的加密方式-2015)
     * [书籍](#书籍)
@@ -123,7 +123,7 @@
         * [<a href="https://paragonie.com/blog/">Paragon Initiative Enterprises Blog</a>](#paragon-initiative-enterprises-blog)
         * [<a href="http://blog.ircmaxell.com">ircmaxell's blog</a>](#ircmaxells-blog)
         * [<a href="http://blog.astrumfutura.com">Pádraic Brady's Blog</a>](#pádraic-bradys-blog)
-      * [Mailing lists](#mailing-lists)
+      * [订阅](#订阅)
         * [<a href="http://securingphp.com">Securing PHP Weekly</a>](#securing-php-weekly)
 
 
@@ -139,7 +139,7 @@
 
 [Crackstation](https://crackstation.net)上的一篇文章, [Defuse Security](https://defuse.ca)的一个项目。
 
-### [/dev/urandom不当的使用](http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html) (2014)
+### [/dev/urandom不当使用](http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html) (2014)
 
 在Linux/BSD上提及了许多使 `/dev/urandom`失效的方法。
 
@@ -476,7 +476,7 @@ PHP 7提供了一组新的伪随机数生成器（Cryptographically Secure Pseud
 
 PádraicBrady是Zend Framework领域的安全专家。
 
-### Mailing lists
+### 订阅
 
 #### [Securing PHP Weekly](http://securingphp.com)
 
